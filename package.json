@@ -1,0 +1,16 @@
+{
+	"type": "module",
+	"sideEffects": false,
+	"name": "@intrnl/stable-stringify",
+	"description": "Stable JSON stringify",
+	"version": "0.1.0",
+	"author": "intrnl",
+	"license": "MIT",
+	"repository": {
+		"url": "https://github.com/intrnl/stable-stringify"
+	},
+	"files": [
+		"src/"
+	],
+	"main": "src/index.js"
+}
