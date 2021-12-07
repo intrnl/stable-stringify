@@ -3,7 +3,7 @@
 	"sideEffects": false,
 	"name": "@intrnl/stable-stringify",
 	"description": "Stable JSON stringify",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"author": "intrnl",
 	"license": "MIT",
 	"repository": {
